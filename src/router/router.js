@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-import Green from '../components/lamp/v-lamp-green.vue'
-import Red from '../components/lamp/v-lamp-red.vue'
-import Yellow from '../components/lamp/v-lamp-yellow.vue'
+import Green from '../views/lamp/v-lamp-green.vue'
+import Red from '../views/lamp/v-lamp-red.vue'
+import Yellow from '../views/lamp/v-lamp-yellow.vue'
 
 Vue.use(VueRouter)
 
